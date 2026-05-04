@@ -7,4 +7,4 @@ I specialize in architecting scalable, high-performance Flutter applications and
 *   🔭 **Currently looking for:** New opportunities as a Senior Flutter Developer (Remote/Hybrid/On-site).
 *   🛠 **Tech Stack:** Flutter, Dart, Kotlin (Native Android), Clean Architecture, MVVM, Bloc, Riverpod.
 *   🚀 **Core Focus:** Super App ecosystems, CI/CD (Codemagic/GitHub Actions), Unit/Widget Testing, and Performance Optimization.
-*   📫 **How to reach me:** [amrmhassanwork@gmail.com](mailto:amrmhassanwork@gmail.com) | [LinkedIn](https://linkedin.com/in/amr-hassan-354985193)
+*   📫 **How to reach me:** [amrmhassanwork@gmail.com](mailto:amrmhassanwork@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amr-m-hassan/)
